@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/mohammadabdullah8674/daily-jornal-application/blob/main/public/images/screenshot.JPG)
 
 Hi, Everyone. This is my FullStack Application using nodejs, express, and mongodb. This is the challenge from [Dr.Angela's Udemy Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/). I have learnt a lot from this course. This course is very helpful for a beginner and this gives a whole overview of the full stack development Journey and for every beginner I recommend this course because its affordable and very helpful at the end. Thankyou
 
